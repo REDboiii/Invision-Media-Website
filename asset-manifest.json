@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Invision-Media-Website/static/css/main.97fd3bb7.css",
+    "main.js": "/Invision-Media-Website/static/js/main.0b654248.js",
+    "static/media/Logo - White 2.png": "/Invision-Media-Website/static/media/Logo - White 2.edd5aeef2c14012287bc.png",
+    "static/media/Gulistan.png": "/Invision-Media-Website/static/media/Gulistan.292d1e88f1aba7c4bc20.png",
+    "static/media/labeaute.png": "/Invision-Media-Website/static/media/labeaute.69707f011d206e045197.png",
+    "static/media/draleen.png": "/Invision-Media-Website/static/media/draleen.d9d5e690d89ad8af2fe2.png",
+    "static/media/Casaluna.png": "/Invision-Media-Website/static/media/Casaluna.461cd3f0736e0da4573f.png",
+    "index.html": "/Invision-Media-Website/index.html",
+    "main.97fd3bb7.css.map": "/Invision-Media-Website/static/css/main.97fd3bb7.css.map",
+    "main.0b654248.js.map": "/Invision-Media-Website/static/js/main.0b654248.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.97fd3bb7.css",
+    "static/js/main.0b654248.js"
+  ]
+}
